@@ -18,5 +18,18 @@
   "bugs": {
     "url": "https://github.com/taras413/Home-work/issues"
   },
-  "homepage": "https://github.com/taras413/Home-work#readme"
+  "homepage": "https://github.com/taras413/Home-work#readme",
+  "devDependencies": {
+    "browser-sync": "^2.12.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-cache": "^0.4.4",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.1",
+    "gulp-uglifyjs": "^0.6.2",
+    "imagemin-pngquant": "^4.2.2"
+  }
 }
